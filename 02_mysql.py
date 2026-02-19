@@ -18,7 +18,7 @@ import pymysql
 # -----------------------------
 # MySQL connection
 # -----------------------------
-MYSQL_HOST = "192.140.56.40"
+MYSQL_HOST = "----------"
 MYSQL_USER = "padrocl1_gs"
 MYSQL_PASSWORD = "<-------->"
 MYSQL_DB = "padrocl1_bd"
