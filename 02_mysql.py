@@ -20,7 +20,7 @@ import pymysql
 # -----------------------------
 MYSQL_HOST = "192.140.56.40"
 MYSQL_USER = "padrocl1_gs"
-MYSQL_PASSWORD = "]I@kyc4sgwEqk}hH"
+MYSQL_PASSWORD = "<-------->"
 MYSQL_DB = "padrocl1_bd"
 MYSQL_PORT = 3306
 
